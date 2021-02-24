@@ -1,0 +1,21 @@
+@import 'imagestyle';
+
+header {
+    display: flex;
+    // flex-direction: row;
+    align-items: flex-start;
+    width: 100%;
+}
+
+ul {
+    display: flex;
+    justify-content: space-between;
+    list-style: none;
+    margin: 0;
+    padding-left: 0px;
+}
+
+a {
+    text-decoration: none;
+}
+
